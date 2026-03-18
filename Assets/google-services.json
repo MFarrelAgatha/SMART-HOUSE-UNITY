@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "341920309956",
+    "firebase_url": "https://smart-house-ed9cd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-house-ed9cd",
+    "storage_bucket": "smart-house-ed9cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341920309956:android:c599ffea15aa44e50c1f91",
+        "android_client_info": {
+          "package_name": "com.tigabintangsejajar.SmartHouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgjfXzEB8Eij6Iho297BTy4sf4BFrK-18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
